@@ -1,5 +1,9 @@
-# br0wser
+# [br0wser](https://pypi.org/project/br0wser/1.0/#history)
 multi funções para navegadores =)
+
+```py
+pip install br0wser
+```
 
 ## DuckDuckGo
 ```py
