@@ -1,3 +1,6 @@
+# br0wser
+multi funções para navegadores =)
+
 ## DuckDuckGo
 ```py
 from br0wser.duckduckgo import *
